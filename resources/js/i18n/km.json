@@ -1,0 +1,19 @@
+{
+  "translation" : {
+    "headerTitle": "Menu Header Title {{appName}}",
+    "text":{
+      "sign_in":"ពិនិត្យចូល",
+      "sign_up":"ចាកចេញ"
+    },
+    "label":{
+      "name":"ឈ្មោះ",
+      "password":"លេខសង្ងត់"
+    },
+    "placeholder":{
+      "eg":"ឧ.",
+      "name":"ឈ្មោះ",
+      "enter_pin_code": "បញ្ចូលកូដ PIN របស់អ្នក។"
+    },
+    "required": "{{fieldName}} ​តំរូវ​អោយ​មាន"
+  }
+}

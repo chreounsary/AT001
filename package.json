@@ -1,0 +1,51 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "@babel/preset-react": "^7.24.6",
+        "@popperjs/core": "^2.11.6",
+        "bootstrap": "^5.2.3",
+        "laravel-echo": "^1.16.1",
+        "laravel-mix": "^6.0.6",
+        "lodash": "^4.17.19",
+        "mix-tailwindcss": "^1.3.0",
+        "postcss": "^8.4.38",
+        "pusher-js": "^8.4.0-rc2",
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.32.11",
+        "sass-loader": "^11.0.1",
+        "tailwindcss": "3.3.2"
+    },
+    "dependencies": {
+        "@reduxjs/toolkit": "^2.2.5",
+        "autoprefixer": "^10.4.19",
+        "axios": "^1.7.2",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.24.1",
+        "form-data": "^4.0.0",
+        "formik": "^2.4.6",
+        "i": "^0.3.7",
+        "i18next": "^19.8.3",
+        "npm": "^10.8.1",
+        "postcss-cli": "^11.0.0",
+        "postcss-loader": "^8.1.1",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "react-i18next": "^11.18.6",
+        "react-iframe": "^1.8.5",
+        "react-modal": "^3.16.1",
+        "react-multi-carousel": "^2.8.5",
+        "react-redux": "^9.1.2",
+        "react-router-dom": "^6.23.1",
+        "sweetalert2": "^11.11.1",
+        "yup": "^1.4.0"
+    }
+}

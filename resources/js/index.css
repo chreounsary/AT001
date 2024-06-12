@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+    .sidebar-button-style{
+        @apply w-auto h-auto px-8 py-0.5 flex flex-col items-center rounded-l bg-gradient-to-r hover:from-[#403C2F] hover:from-10% hover:via-[#544B2F] hover:via-30% hover:to-[#5D5437] hover:to-100% hover:scale-105 hover:delay-75 hover:cursor-pointer;
+    }
+    .main-button-style{
+        @apply flex items-center gap-x-3 shadow-inner justify-center w-28 h-9 rounded-3xl;
+    }
+}

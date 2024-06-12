@@ -1,0 +1,20 @@
+{
+  "translation" : {
+    "headerTitle": "Menu Header Title {{appName}}",
+    "text":{
+      "sign_in":"Sign In",
+      "sign_up":"Sign Up"
+    },
+    "label":{
+      "name":"Name",
+      "password":"Password"
+    },
+    "placeholder":{
+      "eg":"Ex.",
+      "name":"Enter your name",
+      "past_phrase12": "Past your phrase 12",
+      "enter_pin_code": "Eneter your pin code"
+    },
+    "required": "{{fieldName}} is required "
+  }
+}

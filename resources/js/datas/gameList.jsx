@@ -1,0 +1,15 @@
+export const gameList = [
+    {title: "AFBS GAMING", providercode : 'GM_001', image: 'GM_001'},
+    {title: "AFB GAMING E_CASINO", providercode : 'GM_001', image: 'GM_001'},
+    {title: "AFB GAMING FISHING", providercode : 'GM_001', image: 'GM_001'},
+    {title: "AIS SLOTS", providercode : 'GM_001', image: 'GM_001'},
+    {title: "ATA EVOPLAY SLOT", providercode : 'GM_001', image: 'GM_001'},
+    {title: "AUX SLOT", providercode : 'GM_001', image: 'GM_001'},
+    {title: "CG", providercode : 'GM_001', image: 'GM_001'},
+    {title: "CG JAKE", providercode : 'GM_001', image: 'GM_001'},
+    {title: "CG FISHING", providercode : 'GM_001', image: 'GM_001'},
+    {title: "EA CASINO", providercode : 'GM_001', image: 'GM_001'},
+    {title: "GHG SLOT", providercode : 'GM_001', image: 'GM_001'},
+    {title: "JDB FISHING", providercode : 'GM_001', image: 'GM_001'},
+    {title: "JDB SLOT", providercode : 'GM_001', image: 'GM_001'},
+]
